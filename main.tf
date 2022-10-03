@@ -23,5 +23,8 @@ server_side_encryption_configuration {
     }
   }
 }
+variable "action" {
+  default = apply
+}
 
 
