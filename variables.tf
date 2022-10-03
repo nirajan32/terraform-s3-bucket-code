@@ -2,6 +2,6 @@ variable "region" {
   default = "us-east-1"
 }
 
-varuabke "action" {
+variable "action" {
   default = "apply"
 }
